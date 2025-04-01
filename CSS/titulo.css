@@ -1,0 +1,17 @@
+ol{
+    list-style-type: upper-alpha;
+}
+
+h2{
+    background-color: gray;
+    transition: background-;
+}
+
+h2:hover{
+    background-color: darkgray;
+}
+
+.center{
+    text-align: center;
+}
+
